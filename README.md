@@ -13,5 +13,5 @@ In this chapter, I learned the basics of Redux and how it can help manage applic
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-16">Chapter 16</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-17">Chapter 17</a></li>
   <li><a href="https://github.com/justinfrey64/learning-react-chapter-18">Chapter 18</a></li>
-  <li><a href="https://github.com/justinfrey64/learning-react-chapter-19">Chapter 20</a></li>
+  <li><a href="https://github.com/justinfrey64/learning-react-chapter-20">Chapter 20</a></li>
 </ul>
